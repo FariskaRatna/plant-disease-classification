@@ -2,7 +2,7 @@ FROM python:3.9
 
 WORKDIR /workspaces
 
-ENV WANDB_API_KEY=487a069cd8229aae63e17b06a2c33a05ea7d886a
+ENV WANDB_API_KEY=<YOUR_WANDB_AP>
 
 RUN apt-get update && apt-get install -y libgl1-mesa-glx
 
