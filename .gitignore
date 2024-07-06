@@ -1,0 +1,5 @@
+data/
+train-test-splitted/
+__pycache__/
+model/
+wandb/
