@@ -1,0 +1,10 @@
+numpy==1.26.4
+glob2==0.7
+lightning==2.2.0.post0
+matplotlib==3.8.3
+scikit-learn==1.4.1.post1
+split-folders==0.5.1
+torch==2.2.1
+torchvision==0.17.1
+typing_extensions==4.10.0
+wandb==0.16.3
